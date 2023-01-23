@@ -1,0 +1,21 @@
+
+w
+java:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å‘ËŒ8à×å’İ0
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(Àãé8±Øå’İ0
+H
+java:S2160Z"+Override the "equals" method in this class.(„™¾€8•‰æ’İ0
+X
+java:S1161¾":Add the "@Override" annotation above this method signature(ûÄ•8¹‹æ’İ0
+]
+java:S1161Ë":Add the "@Override" annotation above this method signature(­­¬Îùÿÿÿÿ8¾‹æ’İ0
+W
+java:S1161Û":Add the "@Override" annotation above this method signature(å{8É‹æ’İ0
+]
+java:S1161ë":Add the "@Override" annotation above this method signature(İî‹âùÿÿÿÿ8Ø‹æ’İ0
+]
+java:S1161ó":Add the "@Override" annotation above this method signature(Ş‚ÄÔıÿÿÿÿ8â‹æ’İ0
+q
+java:S2975ş"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ8â‹æ’İ0
+]
+java:S1161æ":Add the "@Override" annotation above this method signature(ª÷‚µøÿÿÿÿ8ïŒæ’İ0

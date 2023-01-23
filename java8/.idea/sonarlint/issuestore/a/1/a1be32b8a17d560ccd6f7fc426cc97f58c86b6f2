@@ -1,0 +1,310 @@
+
+|
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤°şÍùÿÿÿÿ8é¶’İ0
+k
+java:S1192– "HDefine a constant instead of duplicating this literal "this = " 7 times.(»ßÓ®øÿÿÿÿ8¥é¶’İ0
+f
+java:S1192ö"HDefine a constant instead of duplicating this literal "maxSize" 3 times.(ŞÇ‘8ªé¶’İ0
+i
+java:S1192õ"KDefine a constant instead of duplicating this literal "dispatcher" 3 times.(™’ô8ªé¶’İ0
+m
+java:S1192ô"JDefine a constant instead of duplicating this literal "layoutMgr" 3 times.(Öîãæùÿÿÿÿ8ªé¶’İ0
+j
+java:S1192ò"LDefine a constant instead of duplicating this literal "ncomponents" 3 times.(ÔòÀ8ªé¶’İ0
+Š
+java:S1192½"gDefine a constant instead of duplicating this literal "invalid focus traversal key identifier" 3 times.(âÊ€ùÿÿÿÿ8ªé¶’İ0
+~
+java:S1192"[Define a constant instead of duplicating this literal "illegal component position" 3 times.(ùÿááùÿÿÿÿ8ªé¶’İ0
+h
+java:S1192ó"JDefine a constant instead of duplicating this literal "component" 3 times.(šË×ç8¯é¶’İ0
+r
+java:S1192÷"ODefine a constant instead of duplicating this literal "focusCycleRoot" 4 times.(Ê«¦üÿÿÿÿ8¯é¶’İ0
+{
+java:S1192ù"]Define a constant instead of duplicating this literal "focusTraversalPolicyProvider" 4 times.(ÖòõÌ8¯é¶’İ0
+}
+java:S1192ø"_Define a constant instead of duplicating this literal "containerSerializedDataVersion" 3 times.(¸€§Ê8¯é¶’İ0
+z	java:S127¤"XRefactor the code in order to not assign to this loop counter from within the loop body.(ìÆ££üÿÿÿÿ8¹é¶’İ0
+z	java:S127¶"XRefactor the code in order to not assign to this loop counter from within the loop body.(¾ÅïÖøÿÿÿÿ8¹é¶’İ0
+M
+java:S1066„"/Merge this if statement with the enclosing one.(»ËÚé8¾é¶’İ0
+M
+java:S1066ä"/Merge this if statement with the enclosing one.(™Û¸Ë8Ãé¶’İ0
+M
+java:S1066­"/Merge this if statement with the enclosing one.(¯èŠ¿8“ê¶’İ0
+R
+java:S1066ÿ"/Merge this if statement with the enclosing one.(ÒÉÕıÿÿÿÿ8¿ê¶’İ0
+F
+java:S1604±"(Make this anonymous inner class a lambda(“³Æ‰8Õë¶’İ0
+E
+java:S1604Ô"(Make this anonymous inner class a lambda(›¼ï>8Õë¶’İ0
+K
+java:S1604Ï"(Make this anonymous inner class a lambda(Âø¨ûÿÿÿÿ8Úë¶’İ0
+F
+java:S1604à$"(Make this anonymous inner class a lambda(Íˆ¹ı8–ì¶’İ0
+F
+java:S1604ï$"(Make this anonymous inner class a lambda(Íˆ¹ı8¤ì¶’İ0
+K
+java:S1604¶%"(Make this anonymous inner class a lambda(Í‚ÅÌûÿÿÿÿ8´ì¶’İ0
+h
+java:S1301×"KReplace this "switch" statement by "if" statements to increase readability.(ÛöÀ8Äì¶’İ0
+_
+java:S4973®"<Strings and Boxed types should be compared using "equals()".(ÿ²öşÿÿÿÿ8’ğ¶’İ0
+R
+java:S11917"5Use classes from the Java API instead of Sun classes.(õ‹½8Şñ¶’İ0
+c
+java:S2259Ö"@A "NullPointerException" could be thrown; "ac" is nullable here.(¯ù¾¡üÿÿÿÿ8ºĞ¸’İ0
+Z
+java:S2589½!"7Remove this expression which always evaluates to "true"(ÖË›ôúÿÿÿÿ8¦Ñ¸’İ0
+|	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( Õåÿÿÿÿÿÿ8íÒ¸’İ0
+Ÿ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡—…£8•Ó¸’İ0
+X
+java:S1161 ":Add the "@Override" annotation above this method signature(õÂùø8çÖ¸’İ0
+Z
+java:S1874¯"7Remove this use of "countComponents"; it is deprecated.(¾³ÓÅúÿÿÿÿ8ìÖ¸’İ0
+X
+java:S1133·"5Do not forget to remove this deprecated code someday.(œ‡ï‘şÿÿÿÿ8ìÖ¸’İ0
+p	java:S100ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Üˆéÿÿÿÿÿ8·×¸’İ0
+L
+java:S1874€".Remove this use of "insets"; it is deprecated.(œ·Ş­8Ú×¸’İ0
+X
+java:S1133ˆ"5Do not forget to remove this deprecated code someday.(¿ÏÓ‡ıÿÿÿÿ8ß×¸’İ0
+E
+java:S1125ƒ"'Remove the unnecessary boolean literal.(»èœï8Ú¸’İ0
+M
+java:S1874¦"/Remove this use of "getPeer"; it is deprecated.(ëËÏì8—Ú¸’İ0
+M
+java:S1874¹"/Remove this use of "getPeer"; it is deprecated.(‚âË8œÚ¸’İ0
+M
+java:S1874¼"/Remove this use of "getPeer"; it is deprecated.(€Ÿô8œÚ¸’İ0
+M
+java:S1874¼"/Remove this use of "getPeer"; it is deprecated.(€Ÿô8œÚ¸’İ0
+u
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(èİäŒıÿÿÿÿ8¡Ú¸’İ0
+u
+java:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(©ÑŞåıÿÿÿÿ8°Û¸’İ0
+X
+java:S1161”	":Add the "@Override" annotation above this method signature(¶¼í8ÁÛ¸’İ0
+u
+java:S3776±
+"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(»ûâÒùÿÿÿÿ8ĞÜ¸’İ0
+]
+java:S1161±
+":Add the "@Override" annotation above this method signature(»ûâÒùÿÿÿÿ8ÓÜ¸’İ0
+^	java:S125Í
+"<This block of commented-out lines of code should be removed.(©‰Ô®şÿÿÿÿ8ÚÜ¸’İ0
+]
+java:S1161ÿ
+":Add the "@Override" annotation above this method signature(üÄ¼ùÿÿÿÿ8çÜ¸’İ0
+]
+java:S1161":Add the "@Override" annotation above this method signature(¾è ˆúÿÿÿÿ8ïÜ¸’İ0
+X
+java:S1161İ":Add the "@Override" annotation above this method signature(‹—°¨8ÿÜ¸’İ0
+Q
+java:S1874Ş".Remove this use of "layout"; it is deprecated.(öŠ©ªÿÿÿÿÿ8µİ¸’İ0
+S
+java:S1133æ"5Do not forget to remove this deprecated code someday.(Ö†ï8·İ¸’İ0
+X
+java:S1161æ":Add the "@Override" annotation above this method signature(Ö†ï8¹İ¸’İ0
+\
+java:S1117ç">Rename "layoutMgr" which hides the field declared at line 114.(¼™­é8¼İ¸’İ0
+\
+java:S1117±">Rename "layoutMgr" which hides the field declared at line 114.(¼™­é8Èİ¸’İ0
+]
+java:S1161Ô":Add the "@Override" annotation above this method signature(¶Ô¸êşÿÿÿÿ8Ìİ¸’İ0
+o
+java:S3776›"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Å·8ôŞ¸’İ0
+]
+java:S1161Õ":Add the "@Override" annotation above this method signature(·ÌŸàûÿÿÿÿ8‚ß¸’İ0
+S
+java:S1481Ö"5Remove this unused "shouldinvalidate" local variable.(‘ƒõ©8„ß¸’İ0
+]
+java:S1161ö":Add the "@Override" annotation above this method signature(Ú„ÎÕşÿÿÿÿ8‡ß¸’İ0
+X
+java:S1874÷"5Remove this use of "preferredSize"; it is deprecated.(Ä–‡Ğıÿÿÿÿ8ˆß¸’İ0
+S
+java:S1133ÿ"5Do not forget to remove this deprecated code someday.(õ‚ğ8‰ß¸’İ0
+X
+java:S1161ÿ":Add the "@Override" annotation above this method signature(õ‚ğ8Šß¸’İ0
+]
+java:S1161ª":Add the "@Override" annotation above this method signature(¸©°úÿÿÿÿ8ß¸’İ0
+V
+java:S1874«"3Remove this use of "minimumSize"; it is deprecated.(Ğ÷†×ûÿÿÿÿ8ß¸’İ0
+X
+java:S1133³"5Do not forget to remove this deprecated code someday.(ùºµËùÿÿÿÿ8ß¸’İ0
+]
+java:S1161³":Add the "@Override" annotation above this method signature(ùºµËùÿÿÿÿ8ß¸’İ0
+]
+java:S1161Ş":Add the "@Override" annotation above this method signature(×’•¯ıÿÿÿÿ8”ß¸’İ0
+X
+java:S1161ı":Add the "@Override" annotation above this method signature(×ÌË—8›ß¸’İ0
+X
+java:S1161‘":Add the "@Override" annotation above this method signature(‰ ”8¢ß¸’İ0
+X
+java:S1161©":Add the "@Override" annotation above this method signature(¶øÂÁ8®ß¸’İ0
+f
+java:S3252º"HUse static access with "sun.awt.SunGraphicsCallback" for "LIGHTWEIGHTS".(çä÷•8·ß¸’İ0
+X
+java:S1161É":Add the "@Override" annotation above this method signature(æìÑº8ºß¸’İ0
+]
+java:S1161İ":Add the "@Override" annotation above this method signature(ÊËßÜşÿÿÿÿ8Àß¸’İ0
+f
+java:S3252ñ"HUse static access with "sun.awt.SunGraphicsCallback" for "LIGHTWEIGHTS".(çä÷•8Ğß¸’İ0
+i
+java:S3252ş"FUse static access with "sun.awt.SunGraphicsCallback" for "TWO_PASSES".(»æ¶İúÿÿÿÿ8Ùß¸’İ0
+X
+java:S1161‰":Add the "@Override" annotation above this method signature(ĞûœÂ8Üß¸’İ0
+]
+java:S1161‘":Add the "@Override" annotation above this method signature(÷“¦»øÿÿÿÿ8àß¸’İ0
+k
+java:S3252•"HUse static access with "sun.awt.SunGraphicsCallback" for "LIGHTWEIGHTS".(şßİ²ûÿÿÿÿ8äß¸’İ0
+k
+java:S3252•"HUse static access with "sun.awt.SunGraphicsCallback" for "HEAVYWEIGHTS".(şßİ²ûÿÿÿÿ8åß¸’İ0
+i
+java:S3252¢"FUse static access with "sun.awt.SunGraphicsCallback" for "TWO_PASSES".(»æ¶İúÿÿÿÿ8Åà¸’İ0
+X
+java:S1161­":Add the "@Override" annotation above this method signature(¬ë Â8Çà¸’İ0
+W
+java:S1161µ":Add the "@Override" annotation above this method signature(¾˜Z8Êà¸’İ0
+k
+java:S3252¹"HUse static access with "sun.awt.SunGraphicsCallback" for "LIGHTWEIGHTS".(şßİ²ûÿÿÿÿ8Ìà¸’İ0
+k
+java:S3252¹"HUse static access with "sun.awt.SunGraphicsCallback" for "HEAVYWEIGHTS".(şßİ²ûÿÿÿÿ8Íà¸’İ0
+X
+java:S1161–":Add the "@Override" annotation above this method signature(š‚8Öà¸’İ0
+]
+java:S1161¡":Add the "@Override" annotation above this method signature( ´üúÿÿÿÿ8Şà¸’İ0
+_
+java:S1126¦"AReplace this if-then-else statement by a single return statement.(Êóı8êà¸’İ0
+X
+java:S1161º":Add the "@Override" annotation above this method signature(şò¸¦8ïà¸’İ0
+>	java:S131×""Add a default case to this switch.(ÛöÀ8ùà¸’İ0
+X
+java:S1161ê":Add the "@Override" annotation above this method signature(ƒ“»8€á¸’İ0
+u
+java:S3776Ü"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(áà¸İûÿÿÿÿ8´á¸’İ0
+S
+java:S1133Ï"5Do not forget to remove this deprecated code someday.(Ôèˆ»8üá¸’İ0
+X
+java:S1161Ï":Add the "@Override" annotation above this method signature(Ôèˆ»8‡â¸’İ0
+X
+java:S1161ë":Add the "@Override" annotation above this method signature(ÅğÇ8â¸’İ0
+L
+java:S1874ì".Remove this use of "locate"; it is deprecated.(«Ÿ‹ƒ8â¸’İ0
+X
+java:S1133ô"5Do not forget to remove this deprecated code someday.(¾…•ûÿÿÿÿ8’â¸’İ0
+]
+java:S1161ô":Add the "@Override" annotation above this method signature(¾…•ûÿÿÿÿ8“â¸’İ0
+]
+java:S1161•":Add the "@Override" annotation above this method signature(‹ßöÿÿÿÿÿ8â¸’İ0
+]
+java:S1161À":Add the "@Override" annotation above this method signature(—‚Áÿÿÿÿÿ8Áâ¸’İ0
+u
+java:S3776ñ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‰˜ÛÙüÿÿÿÿ8Èâ¸’İ0
+]
+java:S1161Ç":Add the "@Override" annotation above this method signature(Åáçİøÿÿÿÿ8åã¸’İ0
+X
+java:S1161æ":Add the "@Override" annotation above this method signature(û”¾†8Çä¸’İ0
+^	java:S125«"<This block of commented-out lines of code should be removed.(­ÆŞåûÿÿÿÿ8å¸’İ0
+u
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Åà¤¼üÿÿÿÿ8å¸’İ0
+|
+java:S2142ğ"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ùå¸’İ0
+Ÿ
+java:S1186›"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“–ış8ãå¸’İ0
+h
+java:S1124š"EReorder the modifiers to comply with the Java Language Specification.(ÄÂ¦ûÿÿÿÿ8åå¸’İ0
+X
+java:S1161ª":Add the "@Override" annotation above this method signature(´Ã°Ó8æ¸’İ0
+\
+java:S1117¬">Rename "layoutMgr" which hides the field declared at line 114.(¼™­é8¥æ¸’İ0
+]
+java:S1161Â":Add the "@Override" annotation above this method signature(÷¼òıÿÿÿÿ8«æ¸’İ0
+]
+java:S1161İ":Add the "@Override" annotation above this method signature(¾ÓÄÄøÿÿÿÿ8·æ¸’İ0
+X
+java:S1161¹":Add the "@Override" annotation above this method signature(çÚÀì8ñæ¸’İ0
+]
+java:S1161â":Add the "@Override" annotation above this method signature(Ô±èÊúÿÿÿÿ8öæ¸’İ0
+]
+java:S1161€":Add the "@Override" annotation above this method signature(“æÇıÿÿÿÿ8šç¸’İ0
+]
+java:S1161˜":Add the "@Override" annotation above this method signature(ã‘È®ûÿÿÿÿ8±ç¸’İ0
+W
+java:S1161¼":Add the "@Override" annotation above this method signature(Î÷İW8µç¸’İ0
+W
+java:S1161Ñ":Add the "@Override" annotation above this method signature(ßúò8¹ç¸’İ0
+X
+java:S1161ê":Add the "@Override" annotation above this method signature(¹òİ‚8¾ç¸’İ0
+X
+java:S1161ô":Add the "@Override" annotation above this method signature(™™å¹8Àç¸’İ0
+X
+java:S1161Ó":Add the "@Override" annotation above this method signature(ïµ½Ò8Òç¸’İ0
+]
+java:S1161æ":Add the "@Override" annotation above this method signature(¶çı˜şÿÿÿÿ8ùè¸’İ0
+K
+java:S1185‘"(Remove this method to simply inherit it.(¦¦½Œúÿÿÿÿ8ÿè¸’İ0
+]
+java:S1161‘":Add the "@Override" annotation above this method signature(¦¦½Œúÿÿÿÿ8€é¸’İ0
+F
+java:S1185¹"(Remove this method to simply inherit it.(Ï¨¦ƒ8ƒé¸’İ0
+X
+java:S1161¹":Add the "@Override" annotation above this method signature(Ï¨¦ƒ8„é¸’İ0
+G
+java:S1905"*Remove this unnecessary cast to "Integer".(Ê¤ñ	8œé¸’İ0
+|
+java:S3012•"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ÿœ¶Ëÿÿÿÿÿ8Ÿé¸’İ0
+a
+java:S1117 ">Rename "component" which hides the field declared at line 106.( ú©ºıÿÿÿÿ8¤é¸’İ0
+_
+java:S1948‡"<Make "accessibleContainerHandler" transient or serializable.(¬ÕÄ×úÿÿÿÿ8€ë¸’İ0
+X
+java:S1161å":Add the "@Override" annotation above this method signature(ôñ«Ò8ƒë¸’İ0
+X
+java:S1161ï":Add the "@Override" annotation above this method signature(À¦ÜŞ8†ë¸’İ0
+]
+java:S1161ı":Add the "@Override" annotation above this method signature(°³ä´ûÿÿÿÿ8‡ë¸’İ0
+h
+java:S1124…"EReorder the modifiers to comply with the Java Language Specification.(üŸıÿÿÿÿ8‰ë¸’İ0
+g
+java:S4201’"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ïÕ©8ë¸’İ0
+g
+java:S4201š"IRemove this unnecessary null check; "instanceof" returns false for nulls.(ïÕ©8‘ë¸’İ0
+]
+java:S1161§":Add the "@Override" annotation above this method signature(¦¦½Œúÿÿÿÿ8”ë¸’İ0
+_
+java:S3078«"AUse an "AtomicInteger" for this field; its operations are atomic.(¡İ€­8•ë¸’İ0
+X
+java:S1161¸":Add the "@Override" annotation above this method signature(Úëá8—ë¸’İ0
+d
+java:S3078¹"AUse an "AtomicInteger" for this field; its operations are atomic.(ÒìŞÆøÿÿÿÿ8™ë¸’İ0
+u
+java:S3776Ì"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(£©èúÿÿÿÿ8œë¸’İ0
+u
+java:S3776Ó "RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(”¥ìåúÿÿÿÿ8‘ì¸’İ0
+M
+java:S1874ß "/Remove this use of "getPeer"; it is deprecated.(Øî†À8›ì¸’İ0
+M
+java:S1874ô "/Remove this use of "getPeer"; it is deprecated.(Øî†À8¡ì¸’İ0
+M
+java:S1874‰!"/Remove this use of "getPeer"; it is deprecated.(Øî†À8¨ì¸’İ0
+^	java:S125Ó""<This block of commented-out lines of code should be removed.(ú¸úüùÿÿÿÿ8Äï¸’İ0
+Y	java:S125×""<This block of commented-out lines of code should be removed.(ëØãµ8Çï¸’İ0
+p
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(«£î8Æğ¸’İ0
+D	java:S131¯#""Add a default case to this switch.(Ò“ÿšùÿÿÿÿ8Îğ¸’İ0
+e
+java:S3252ı#"GUse static access with "java.awt.event.MouseEvent" for "MOUSE_ENTERED".(ª‘ô§8Ùğ¸’İ0
+d
+java:S3252ş#"FUse static access with "java.awt.event.MouseEvent" for "MOUSE_EXITED".(›˜§ı8Úğ¸’İ0
+^	java:S125Ş$"<This block of commented-out lines of code should be removed.(Ìûª‹şÿÿÿÿ8†ñ¸’İ0
+^	java:S125í$"<This block of commented-out lines of code should be removed.(í Ğùùÿÿÿÿ8”ñ¸’İ0
+Y	java:S125Ñ%"<This block of commented-out lines of code should be removed.(ŞŞßı8«ò¸’İ0
+u
+java:S3776â%"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(¤­İÊûÿÿÿÿ8²ò¸’İ0
+B
+java:S1659ç%"Declare "y" on a separate line.(Â­ƒùÿÿÿÿ8¸ò¸’İ0
+T
+java:S1144±"1Remove this unused private "startLWModal" method.(Åà¤¼üÿÿÿÿ8Óó¸’İ0
+S
+java:S1144€"0Remove this unused private "stopLWModal" method.(ğç´¥ùÿÿÿÿ8Õó¸’İ0
